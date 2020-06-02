@@ -5,3 +5,10 @@ C:\Users\Gustavo\OneDrive - Etec Centro Paula Souza\TPA\ExerciciosEstruturaCondi
 C:\Users\Gustavo\OneDrive - Etec Centro Paula Souza\TPA\ExerciciosEstruturaCondicionalEncadeada\Exercicio1\obj\Debug\Exercicio1.csproj.CoreCompileInputs.cache
 C:\Users\Gustavo\OneDrive - Etec Centro Paula Souza\TPA\ExerciciosEstruturaCondicionalEncadeada\Exercicio1\obj\Debug\Exercicio1.exe
 C:\Users\Gustavo\OneDrive - Etec Centro Paula Souza\TPA\ExerciciosEstruturaCondicionalEncadeada\Exercicio1\obj\Debug\Exercicio1.pdb
+C:\Users\Gustavo\Desktop\RepositoriosLocais\ExerciciosEstruturaCondicionalEncadeada\Exercicio1\bin\Debug\Exercicio1.exe.config
+C:\Users\Gustavo\Desktop\RepositoriosLocais\ExerciciosEstruturaCondicionalEncadeada\Exercicio1\bin\Debug\Exercicio1.exe
+C:\Users\Gustavo\Desktop\RepositoriosLocais\ExerciciosEstruturaCondicionalEncadeada\Exercicio1\bin\Debug\Exercicio1.pdb
+C:\Users\Gustavo\Desktop\RepositoriosLocais\ExerciciosEstruturaCondicionalEncadeada\Exercicio1\obj\Debug\Exercicio1.csprojAssemblyReference.cache
+C:\Users\Gustavo\Desktop\RepositoriosLocais\ExerciciosEstruturaCondicionalEncadeada\Exercicio1\obj\Debug\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\RepositoriosLocais\ExerciciosEstruturaCondicionalEncadeada\Exercicio1\obj\Debug\Exercicio1.exe
+C:\Users\Gustavo\Desktop\RepositoriosLocais\ExerciciosEstruturaCondicionalEncadeada\Exercicio1\obj\Debug\Exercicio1.pdb
